@@ -1,0 +1,15 @@
+Staying safe in India's rapidly evolving digital landscape—ranked as the second most targeted country for cyberscams globally in early 2026—requires specific daily habits. College students are frequent targets due to high online activity and the use of shared networks.
+Stay Safe Online: Student Prevention Checklist
+Never PIN for Receiving: Remember that entering your UPI PIN or scanning a QR code is only required to send money, never to receive it. If a "buyer" on a marketplace asks you to scan a code to get paid, it is a scam.
+Verify UPI 'Collect Requests': Carefully read every notification from payment apps like GPay or PhonePe. Scammers often send "Collect Requests" for large amounts, hoping you will blindly approve them.
+Avoid Public Wi-Fi for Finance: Never use free campus or café Wi-Fi to log into bank accounts or make UPI payments. Use your mobile data or a trusted VPN to prevent hackers from intercepting your credentials.
+Beware of 'Digital Arrest' Scams: If you receive a video call from someone in uniform claiming to be a "CBI" or "Police" official accusing you of illegal activity and demanding a payment to avoid arrest, hang up immediately. Legitimate authorities never demand payments over video calls.
+Spot Fake Scholarship/Job Offers: Verify any "Student Laptop Schemes" or "Work from Home" offers through official university or government portals like the Press Information Bureau Fact Check. Genuine offers will not ask for an "advance processing fee".
+Set Daily Transaction Limits: Use your UPI app settings to lower your daily and per-transaction limits to what you typically need for a day (e.g., ₹2,000 to ₹5,000). This minimiSes potential loss if your account is compromised.
+Enable Biometric Locks: Secure your phone and your individual banking/UPI apps with fingerprint or Face ID. This adds a critical layer of defence if your device is physically stolen or accessed by others.
+Report 'Test' Transactions: If you notice a small, unauthoriSed deduction (even as low as ₹1), report it immediately. Fraudsters often use tiny amounts to test if an account is active before attempting a larger theft.
+Immediate Reporting Channels
+If you suspect you have been scammed or have lost money, act within the "Golden Hour" (the first 2 hours) to increase the chances of freezing the funds:
+Call the National Cyber Crime Helpline: 1930 (Available 24/7).
+File a Formal Complaint: Visit the National Cyber Crime Reporting Portal at cybercrime.gov.in.
+Inform Your Bank: Immediately notify your bank to block your accounts and UPI ID.
